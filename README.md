@@ -46,35 +46,3 @@
 
 ## Инструменты
 Онлайн whiteboard: [Draw.io](https://draw.io/), [Miro](https://miro.com/), Whimsical или Excalidraw
-
-
-
-## Additional Information
-More System Design exericses [here](/exercises)!
-
-### Junior, Middle, Senior, and Staff level interviews
-The system design experience would be different depending on the candidate's target level. An approximate engineering level breakdown can be found [here](https://candor.co/articles/tech-careers/google-promotions-the-real-scoop-on-leveling-up).  
-
-_NOTE: There's no clear mapping between years of experience and seniority - some ranges might exist but it largely depends on the candidate's background._
-
-#### Junior engineers
-The system design round of junior engineers is optional since it's pretty unlikely they would have experience designing software systems.
-
-#### Middle level engineers
-The middle-level engineering design round might be heavy on the implementation side. The interviewer and the candidate would mostly talk about building a specific component using platform libraries.
-
-#### Senior level engineers
-The senior-level engineering design round could be more high-level compared to the previous levels. The interviewer and the candidate would mostly talk about multiple components and how they communicate with each other. The implementation details could be less important unless the candidate needs to make a decision that drastically affects the application performance. The candidate should also be able to select a technical stack and describe its advantages and trade-offs.
-
-#### Staff level engineers
-The staff-level engineering design round moves away from technical to strategic decisions. The candidate might want to discuss the target audience, available computational and human resources, expected traffic, and deadlines. Instead of thinking in terms of implementation tasks - the candidate should put business needs first. For example, being able to explain how to reduce product time-to-market; how to safely rollout and support features; how to handle OMG situations and large-scale outages. The user privacy topics and their legal implications become extremely important and should be discussed in great detail.
-
-## Looking for more content?
-### System Design Exercises
-Check out the [collection](/exercises) of mobile system design exercises.
-### Common System Design Interview Mistakes
-Check the guide [here](/common-interview-mistakes.md).
-### Mock Interviews
-Check out the mock interview [archive](https://www.youtube.com/playlist?list=PLaMN-JyH50OYAfxJEpiQTYTD-gxTf7x9d) or [sign-up](https://forms.gle/Cez2R31wqtgp3RsX9) to be a candidate yourself!
-
-## Consider "starring" the repository to help other people discover the guide! Thank you!
